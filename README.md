@@ -24,6 +24,9 @@ The project consists of two main components:
 - **Calendar Integration**: Google Calendar API through LangChain toolkit
 - **State Management**: Persistent conversation state and event handling
 
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/7a854059-799f-4c34-9258-a9c7735742a1" />
+
+
 ### Frontend (Next.js Application)
 - **Framework**: Next.js 14 with TypeScript
 - **UI Components**: Modern React components with Tailwind CSS
