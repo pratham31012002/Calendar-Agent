@@ -6,6 +6,9 @@
 
 Calendar Agent is an intelligent personal assistant built with LangGraph and Next.js that helps you manage your Google Calendar through natural language interactions. The agent can create, view, update, and delete calendar events while providing a seamless conversational experience.
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/fde9ae13-f39d-4af4-bbf1-f75b3ac63685" />
+
+
 ## ✨ Features
 
 - **🗣️ Natural Language Interface**: Interact with your calendar using conversational commands
