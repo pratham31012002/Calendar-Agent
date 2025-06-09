@@ -1,0 +1,14 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "calendar_agent": "./calendar_agent/agent/graph.py:graph"
+  },
+  "python_version": "3.12",
+  "env": "./.env",
+  "dependencies": [
+    "."
+  ],
+  "ui": {
+    "calendar_agent": "./calendar_agent/ui/ui.tsx"
+  }
+}

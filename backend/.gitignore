@@ -1,0 +1,9 @@
+token.json
+.env
+venv/
+.vscode/
+.langgraph_api/
+__pycache__/
+calendar_agent/agent/__pycache__/
+calendar_agent/ui/node_modules/
+calendar_agent/agent/credentials.json
