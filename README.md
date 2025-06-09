@@ -47,7 +47,7 @@ The project consists of two main components:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pratham31012002/Calendar-Agent.git
    cd Calendar-Agent
    ```
 
